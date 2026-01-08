@@ -1,0 +1,13 @@
+lst=[10,20,30]
+lst.append(40)
+print(lst)
+lst.insert(1,67)
+print(lst)
+lst.remove(20)
+print(lst)
+lst.pop()
+print(lst)
+lst.sort()
+print(lst)
+lst.reverse()
+print(lst)
